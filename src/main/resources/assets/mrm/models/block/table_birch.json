@@ -1,0 +1,11 @@
+{
+  "parent": "mrm:custom/table",
+  "textures": {
+    "all": "mrm:blocks/stripped_birch_log",
+    "particle": "mrm:blocks/stripped_birch_log",
+    "0": "mrm:blocks/anvil",
+    "2": "mrm:blocks/stripped_birch_log",
+    "3": "mrm:blocks/observer_side",
+    "4": "mrm:blocks/cauldron_inner"
+  }
+}

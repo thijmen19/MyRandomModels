@@ -1,0 +1,9 @@
+{
+  "parent": "mrm:custom/trashcan2.0",
+  "textures": {
+    "all": "mrm:blocks/stripped_birch_log",
+    "particle": "mrm:blocks/stripped_birch_log",
+    "0": "mrm:blocks/stripped_birch_log",
+    "1": "mrm:blocks/anvil"
+  }
+}

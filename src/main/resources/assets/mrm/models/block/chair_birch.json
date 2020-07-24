@@ -1,0 +1,9 @@
+{
+  "parent": "mrm:custom/chair",
+  "textures": {
+    "all": "mrm:blocks/stripped_birch_log",
+    "particle": "mrm:blocks/stripped_birch_log",
+    "0": "mrm:blocks/anvil",
+    "1": "mrm:blocks/stripped_birch_log"
+  }
+}
